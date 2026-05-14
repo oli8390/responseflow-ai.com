@@ -1,0 +1,178 @@
+PROMPT: “Build a High-Converting Website Using Hormozi Frameworks”
+Objective:
+ Create a high-converting, lead-generating website for a [INSERT NICHE] business in [CITY/AREA], designed to dominate its market using Alex Hormozi’s frameworks:
+$100M Offers
+$100M Leads
+$100M Money Models
+The goal is to:
+Position the business as the obvious choice
+Capture and convert inbound demand
+Maximize customer lifetime value
+
+🎯 TARGET AUDIENCE (Universal Framework)
+People who:
+Are currently experiencing a problem, pain, or desire related to [NICHE]
+Want a fast, reliable, high-quality solution
+Value results, trust, speed, and convenience over price
+
+⚡ CORE STRATEGY: THE HORMOZI TRIFECTA
+
+1. 💰 $100M OFFERS (MAKE THE BUSINESS IRRESISTIBLE)
+🔹 A. DREAM OUTCOME (WHAT THEY ACTUALLY WANT)
+Replace services with outcomes.
+Instead of:
+“Teeth whitening”
+“Roof repair”
+“Life insurance”
+Use:
+“A confident smile that stands out instantly”
+“A home protected from leaks for decades”
+“Your family financially secure no matter what happens”
+Website Implementation:
+Headline = RESULT, not service
+Images = AFTER state (emotion-driven)
+Service pages = start with transformation
+
+🔹 B. PERCEIVED LIKELIHOOD (WHY THEY TRUST YOU)
+Stack credibility HARD.
+Must include:
+⭐ Reviews (Google, Yelp, etc.)
+🎥 Video testimonials (if possible)
+📸 Before & after (if applicable)
+📊 Case studies
+🏆 Certifications / experience
+🔒 Guarantees (huge)
+👉 This is where most businesses lose—your sites win here.
+
+🔹 C. REDUCE TIME, EFFORT, & FRICTION
+Make it stupid easy to take action.
+Must include:
+Click-to-call buttons (mobile)
+Simple forms (name, phone, email only)
+Online booking (if applicable)
+Fast response messaging:
+“Same-day response”
+“24-hour turnaround”
+“We handle everything” positioning
+
+🔥 D. GRAND SLAM OFFER (GAME CHANGER)
+Create 1 irresistible hook offer:
+Examples:
+“Free [inspection/consultation/analysis]”
+“$0 down to get started”
+“First-time client discount”
+“Free audit/report”
+👉 This sits above the fold on homepage + landing pages
+
+2. 🚀 $100M LEADS (CAPTURE DEMAND)
+
+🔹 A. ORGANIC (SEO AUTHORITY)
+Build a content engine:
+Blog topics:
+“Cost of [service] in [city]”
+“Best [service] near me”
+“How to choose a [provider]”
+Optimize all service pages for local keywords
+
+🔹 B. PAID ADS LANDING PAGES
+For Meta / Google Ads:
+No distractions
+One offer
+One CTA
+Social proof visible immediately
+Fast load speed
+
+🔹 C. LEAD CAPTURE SYSTEM
+Every page should convert.
+Include:
+Pop-ups (offers, discounts)
+Sticky CTAs
+Lead magnets:
+Free guide
+Free audit
+Free quote
+
+3. 📈 $100M MONEY MODELS (MAXIMIZE REVENUE)
+
+🔹 A. ATTRACTION OFFER (LOW BARRIER)
+Get them in the door:
+Free consultation
+Discount
+Trial
+
+🔹 B. UPSELLS
+Increase value per customer:
+Packages (Good / Better / Best)
+Add-ons
+Premium options
+
+🔹 C. DOWNSELLS
+Capture hesitant buyers:
+Financing
+Payment plans
+Smaller service options
+
+🔹 D. CONTINUITY (RECURRING REVENUE)
+Create recurring income:
+Memberships
+Maintenance plans
+Subscriptions
+
+🧱 REQUIRED WEBSITE STRUCTURE
+
+🏠 Homepage
+Bold outcome-driven headline
+Grand Slam Offer
+CTA above the fold
+Social proof
+Service overview
+Trust indicators
+
+🛠 Service Pages
+Each service should include:
+Outcome-based headline
+Benefits (not features)
+Process breakdown
+Testimonials
+CTA
+
+👤 About Page
+Story (build trust)
+Authority
+Mission
+
+📸 Results / Case Studies
+Before & after
+Testimonials
+Real results
+
+⭐ Reviews Page
+Aggregated testimonials
+
+📚 Blog / Resources
+SEO content engine
+
+📞 Contact Page
+Simple form
+Phone
+Booking link
+
+❓ FAQ Page
+Objection handling
+
+🔒 Guarantees Page
+Risk reversal
+
+🔁 Membership / Plans Page
+Recurring revenue offer
+
+⚙️ DESIGN + TECH REQUIREMENTS
+Mobile-first (critical)
+Fast loading speed
+Clean, modern UI (Apple-style)
+Strong CTAs everywhere
+CRM integration (GHL)
+Tracking:
+Leads
+Conversion rate
+CPL
